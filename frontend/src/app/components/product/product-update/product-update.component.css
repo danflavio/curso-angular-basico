@@ -1,0 +1,9 @@
+.form-prod {
+    display: flex;
+    flex-direction: column;
+}
+
+.botoes button {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
