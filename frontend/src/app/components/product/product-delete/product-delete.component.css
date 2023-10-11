@@ -3,7 +3,7 @@ form {
     flex-direction: column;
 }
 
-button {
-    margin-right: 20px;
+.botoes button {
+    margin-right: 10px;
     margin-bottom: 10px;
 }
