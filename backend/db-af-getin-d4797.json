@@ -3,12 +3,12 @@
     {
       "id": 1,
       "name": "Caneta BIC Preta",
-      "price": 5.89
+      "price": "6.20"
     },
     {
       "id": 2,
       "name": "Notebook Dell",
-      "price": "5000"
+      "price": 6700
     },
     {
       "id": 3,
@@ -34,21 +34,6 @@
       "name": "Sacola 20 KG",
       "price": "15",
       "id": 7
-    },
-    {
-      "name": "Garrafa Tupperware 500 ML",
-      "price": "28",
-      "id": 8
-    },
-    {
-      "name": "Monitor",
-      "price": "600",
-      "id": 9
-    },
-    {
-      "name": "Nokia 5125",
-      "price": "300",
-      "id": 10
     }
   ]
 }
